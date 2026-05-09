@@ -1,0 +1,164 @@
+DESCRIPTION,total_procedures,unique_patients,unique_encounters,avg_base_cost,total_base_cost
+Assessment of health and social care needs (procedure),4596,509,4596,431.0,1980876
+Hospice care (regime/therapy),4098,61,162,431.0,1766238
+Depression screening using Patient Health Questionnaire Two-Item score (procedure),3614,500,3614,431.0,1557634
+Depression screening (procedure),3614,500,3614,431.0,1557634
+Assessment of substance use (procedure),2906,436,2906,431.0,1252486
+Renal dialysis (procedure),2746,5,2746,1004.0863073561544,2757221
+Assessment using Morse Fall Scale (procedure),2422,268,2422,431.0,1043882
+Assessment of anxiety (procedure),2288,437,2288,431.0,986128
+Medication Reconciliation (procedure),2284,418,2284,509.12434325744306,1162840
+Screening for drug abuse (procedure),1484,333,1484,431.0,639604
+Screening for domestic abuse (procedure),1432,356,1432,431.0,617192
+Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure),1422,331,1422,431.0,612882
+Electrical cardioversion,1383,74,1383,25903.110629067247,35824002
+Auscultation of the fetal heart,1065,71,1065,5312.508920187794,5657822
+Evaluation of uterine fundal height,1065,71,1065,5287.58779342723,5631281
+Movement therapy (regime/therapy),890,89,890,431.0,383590
+Intramuscular injection,522,45,522,2539.5287356321837,1325634
+Combined chemotherapy and radiation therapy (procedure),444,21,444,11796.387387387387,5237596
+Colonoscopy,424,233,424,11841.98820754717,5021003
+Catheter ablation of tissue of heart,365,54,365,9331.504109589041,3405999
+Placing subject in prone position (procedure),240,41,83,431.0,103440
+Oxygen administration by mask (procedure),240,41,83,431.0,103440
+Hemoglobin / Hematocrit / Platelet count,237,71,237,2028.1054852320676,480661
+Spirometry (procedure),209,23,209,7792.7655502392345,1628688
+Depression screening using Patient Health Questionnaire Nine Item score (procedure),206,118,206,30.262135922330096,6234
+Bone density scan (procedure),198,115,198,9602.863636363636,1901367
+Mammography (procedure),194,26,194,116.58762886597938,22618
+Depression screening,190,82,190,431.0,81890
+Standard pregnancy test,184,81,184,5190.896739130435,955125
+Ultrasound scan for fetal viability,184,81,184,9205.565217391304,1693824
+Echocardiography (procedure),179,88,179,956.1787709497206,171156
+Pulmonary rehabilitation (regime/therapy),171,12,171,1909.625730994152,326546
+Measurement of respiratory function (procedure),170,150,170,351.88823529411764,59821
+Teleradiotherapy procedure (procedure),170,5,170,997.4529411764706,169567
+High resolution computed tomography of chest without contrast (procedure),144,4,144,431.0,62064
+Hearing examination (procedure),144,4,144,431.0,62064
+Cytopathology procedure  preparation of smear  genital source (procedure),140,17,140,2022.3428571428572,283128
+Manual pelvic examination (procedure),140,17,140,140.55,19677
+Cognitive and behavioral therapy (regime/therapy),136,17,136,10388.08088235294,1412779
+Screening for chromosomal aneuploidy in prenatal amniotic fluid,121,69,121,2006.9504132231405,242841
+Physical examination following birth,119,68,119,431.0,51289
+Urine screening for glucose,119,70,119,2107.9411764705883,250845
+Vaccination for diphtheria  pertussis  and tetanus,119,70,119,2620.1512605042017,311798
+Gonorrhea infection test,118,68,118,2005.6610169491526,236668
+Syphilis infection test,118,68,118,1954.1694915254238,230592
+Physical examination of mother,118,68,118,431.0,50858
+Hepatitis C antibody test,118,68,118,2023.3305084745762,238753
+Hepatitis B Surface Antigen Measurement,118,68,118,2006.8050847457628,236803
+Cytopathology procedure  preparation of smear  genital source,118,68,118,1977.957627118644,233399
+Measurement of Varicella-zoster virus antibody,118,68,118,1937.0677966101696,228574
+Human immunodeficiency virus antigen test,118,68,118,1985.5338983050847,234293
+Blood typing  RH typing,118,68,118,2029.9915254237287,239539
+Chlamydia antigen test,118,68,118,2050.0254237288136,241903
+Urine screening test for diabetes,118,68,118,2022.3559322033898,238638
+Urine culture,118,68,118,2051.2457627118642,242047
+Skin test for tuberculosis,118,68,118,1961.1525423728813,231416
+Rubella screening,118,68,118,2044.457627118644,241246
+Urine protein test,118,68,118,2003.542372881356,236418
+Bone immobilization,118,102,118,431.0,50858
+Alpha-fetoprotein test,116,69,116,2087.905172413793,242197
+Fetal anatomy study,116,69,116,431.0,49996
+Throat culture (procedure),115,109,115,1914.2695652173913,220141
+Childbirth,115,71,115,431.0,49565
+Streptococcus pneumoniae group B antigen test,112,67,112,2014.4285714285713,225616
+Digital examination of rectum,107,18,107,994.2616822429907,106386
+Suture open wound,103,93,103,9287.368932038835,956599
+Plain chest X-ray (procedure),78,55,78,7751.179487179487,604592
+Sputum examination (procedure),71,68,71,6429.281690140845,456479
+Insertion of intrauterine contraceptive device,66,46,66,8999.227272727272,593949
+Insertion of subcutaneous contraceptive,62,42,62,8844.0,548328
+Rectal polypectomy,61,52,61,10231.557377049181,624125
+Replacement of contraceptive intrauterine device,61,38,61,8385.803278688525,511534
+Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,57,55,57,20228.035087719298,1152998
+Face mask (physical object),55,55,55,2.3454545454545452,129
+Subcutaneous immunotherapy,54,1,54,11835.5,639117
+Brief general examination (procedure),53,53,53,135.11320754716982,7161
+Review of systems (procedure),53,53,53,64.66037735849056,3427
+Electrocardiographic procedure,53,25,53,1369.3584905660377,72576
+Peripheral blood smear interpretation,53,53,53,431.0,22843
+Upper arm X-ray,52,48,52,431.0,22412
+Patient discharge (procedure),50,49,50,431.0,21550
+Screening for occult blood in feces (procedure),49,49,49,6320.714285714285,309715
+Controlled ventilation procedure and therapy  initiation and management (procedure),46,7,7,431.0,19826
+Admission to orthopedic department,42,39,42,431.0,18102
+Chemotherapy (procedure),40,3,40,431.0,17240
+Removal of subcutaneous contraceptive,39,26,39,9414.410256410256,367162
+Physical examination,39,34,39,431.0,16809
+Removal of intrauterine device,38,31,38,9498.605263157895,360947
+RhD passive immunization,36,8,36,2571.4166666666665,92571
+Episiotomy,36,31,36,5535.111111111111,199264
+Referral to home health care service (procedure),33,32,33,431.0,14223
+Psychosocial care (regime/therapy),33,6,33,431.0,14223
+Counseling for termination of pregnancy,32,23,32,431.0,13792
+Induced termination of pregnancy,32,23,32,9641.0,308512
+Physical exam following abortion,32,23,32,431.0,13792
+Pregnancy termination care,32,23,32,640.96875,20511
+Ankle X-ray,29,29,29,431.0,12499
+Monitoring of patient (regime/therapy),29,2,29,431.0,12499
+Clavicle X-ray,28,25,28,431.0,12068
+Heart failure education (procedure),28,15,28,431.0,12068
+Hemodialysis (procedure),27,4,4,29299.555555555555,791088
+Epidural anesthesia,26,22,26,1961.3846153846155,50996
+X-ray or wrist,25,25,25,431.0,10775
+Biopsy of prostate,22,14,22,2824.7727272727275,62145
+Injection of tetanus antitoxin,21,21,21,2549.0,53529
+Assessment using New York Heart Association Classification (procedure),20,20,20,431.0,8620
+Medical induction of labor,20,17,20,3671.95,73439
+Knee X-ray,17,16,17,431.0,7327
+Information gathering (procedure),16,7,16,64.6875,1035
+Pelvis X-ray,14,14,14,431.0,6034
+Antenatal RhD antibody screening,14,7,14,1854.2857142857142,25960
+Bilateral tubal ligation,12,12,12,8330.333333333334,99964
+Instrumental delivery,12,12,12,7024.333333333333,84292
+Surgical manipulation of joint of knee,12,12,12,16320.083333333334,195841
+Chest X-ray,12,12,12,8298.0,99576
+Augmentation of labor,11,11,11,3860.7272727272725,42468
+Percutaneous coronary intervention,9,8,9,19728.0,177552
+Coronary artery bypass grafting,9,8,9,47085.88888888889,423773
+Cesarean section,8,8,8,7906.5,63252
+Resuscitation using intravenous fluid (procedure),8,3,3,431.0,3448
+Partial resection of colon,7,7,7,25229.285714285714,176605
+Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),7,7,7,211.57142857142858,1481
+Insertion of endotracheal tube (procedure),7,7,7,279.14285714285717,1954
+Biopsy of breast (procedure),7,7,7,3905.714285714286,27340
+Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),7,7,7,1767.5714285714287,12373
+Magnetic resonance imaging for measurement of brain volume (procedure),6,6,6,7393.833333333333,44363
+Prostatectomy,6,6,6,6808.666666666667,40852
+Vasectomy,5,5,5,12106.2,60531
+Transfer to stepdown unit (procedure),5,3,3,431.0,2155
+Screening mammography (procedure),5,5,5,113.6,568
+Admit to ICU (procedure),5,2,2,206260.4,1031302
+Computed tomography of chest and abdomen,5,5,5,10061.2,50306
+Lumpectomy of breast (procedure),5,5,5,29353.0,146765
+Sentinel lymph node biopsy (procedure),4,4,4,10577.25,42309
+Ultrasonography of bilateral breasts (procedure),4,4,4,1235.25,4941
+Extraction of wisdom tooth,4,4,4,11207.5,44830
+Excision of sentinel lymph node (procedure),4,4,4,11277.0,45108
+Cardiovascular stress testing (procedure),4,4,4,431.0,1724
+Insertion of biventricular implantable cardioverter defibrillator,4,4,4,27201.0,108804
+Premature birth of newborn,4,4,4,431.0,1724
+Diagnostic fiberoptic bronchoscopy (procedure),3,3,3,7553.0,22659
+Magnetic resonance imaging of breast (procedure),3,3,3,1319.3333333333333,3958
+Intravenous blood transfusion of packed cells (procedure),3,3,3,2280.3333333333335,6841
+Admission to trauma surgery department,3,3,3,431.0,1293
+Appendectomy,2,2,2,17091.0,34182
+Ultrasonography of abdomen  right upper quadrant and epigastrium,2,2,2,431.0,862
+Biopsy of colon,2,2,2,10986.0,21972
+Laparoscopic Removal of Gall Bladder,2,2,2,11670.5,23341
+Intubation,2,2,2,422.0,844
+Excision of breast tissue (procedure),2,2,2,3621.5,7243
+Suicide risk assessment (procedure),2,1,2,9.0,18
+Mammogram - symptomatic (procedure),2,2,2,110.0,220
+Allergy screening test,1,1,1,431.0,431
+Admission to burn unit,1,1,1,431.0,431
+Admission to long stay hospital,1,1,1,431.0,431
+Microbial culture (procedure),1,1,1,431.0,431
+Methotrexate injection into tubal pregnancy,1,1,1,2624.0,2624
+Mental health screening (procedure),1,1,1,29.0,29
+Fine needle aspiration biopsy of lung (procedure),1,1,1,23141.0,23141
+Nasal sinus endoscopy (procedure),1,1,1,6124.0,6124
+Spontaneous breech delivery,1,1,1,4948.0,4948
+Sputum microscopy (procedure),1,1,1,6963.0,6963
+Thoracentesis (procedure),1,1,1,19622.0,19622

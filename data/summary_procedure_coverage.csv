@@ -1,0 +1,3 @@
+is_covered_by_insurance,total_procedures,unique_patients,unique_encounters,total_procedure_base_cost,avg_procedure_base_cost
+Covered,24791,589,6572,40732049,1643.0175870275502
+Not Covered,22910,454,8098,64785662,2827.8333478830205
