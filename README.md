@@ -197,7 +197,7 @@ This page analyzes procedure frequency and cost impact.
 ---
 
 ## 🔁 5. Patient Behavior & Readmission Analysis
-![Dashboard Screenshot](/images/5.Readmission_Analysis.png)
+![Dashboard Screenshot](/images/5.Readmission.png)
 This page analyzes repeat visit behavior and high-utilization patients.
 
 --
